@@ -9,4 +9,5 @@ I am learning Git and version control to track my work.
 - Push my work to github
 
 ## What I Learned Today
-- Git tracks changes to files over time
+- Git is like a time machine for your files
+- Every commit is a snapshot you can go back to
