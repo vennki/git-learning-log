@@ -7,3 +7,6 @@ I am learning Git and version control to track my work.
 - Understand how commits work
 - Learn Branching and Merging
 - Push my work to github
+
+## What I Learned Today
+- Git tracks changes to files over time
